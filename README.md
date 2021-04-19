@@ -3,7 +3,7 @@
 - Diego Fernandes Lins
 
 ### Objetivo
-Criando uma pokedex de Pokemon usando uma API de pokemon chamada PokeAPI com JavaScript 
+Criando uma pokedex de Pokemon usando uma API de pokemon chamada PokeAPI com JavaScript para mapear todos os 150 pokémons da primeira geração.
 
 ### APIS usadas
 - https://pokeapi.co/
