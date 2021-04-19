@@ -10,4 +10,4 @@ Criando uma pokedex de Pokemon usando uma API de pokemon chamada PokeAPI com Jav
 - https://pokeres.bastionbot.org/
 
 ### Imagem da Pokedex
-![](https://github.com/DiegoLins10/Pokedex/blob/origin/pokedex.png)
+![](https://github.com/DiegoLins10/Pokedex/blob/origin/pokedex2.png)
